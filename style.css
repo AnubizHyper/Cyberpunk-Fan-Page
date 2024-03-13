@@ -172,7 +172,7 @@ body { /*Ajustes del fondo general de la pagina*/
     margin: 0;
     padding: 0;
     background-color: #000000;
-    background-image: url("img/cielo-estrellado.jpg");
+    background-image: url("./img/cielo-estrellado.jpg");
     background-size: cover;
     color: #e0e0e0;
     text-align: justify;  
